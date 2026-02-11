@@ -13,8 +13,6 @@
 
 <details>
   <summary style="font-size: 16px;"><strong id="n8n">n8n (전체 보기)</strong></summary>
-
-- [2026-02-11-디스코드-트리거를-이용한-워크플로우-자동화](n8n/2026-02-11-디스코드-트리거를-이용한-워크플로우-자동화.md)
   <!-- TODO: 여기에 인덱스를 추가하세요 -->
 </details>
 <br>
@@ -23,9 +21,9 @@
   <summary style="font-size: 16px;"><strong id="python">Python (전체 보기)</strong></summary>
 
 - [2026-02-11-파이썬-리스트-컴프리헨션-가이드라인](python/2026-02-11-파이썬-리스트-컴프리헨션-가이드라인.md)
-  <!-- TODO: 여기에 인덱스를 추가하세요 -->
-</details>
-<br>
+    <!-- TODO: 여기에 인덱스를 추가하세요 -->
+  </details>
+  <br>
 
 <details>
   <summary style="font-size: 16px;"><strong id="ai-agent">AI Agent (전체 보기)</strong></summary>
